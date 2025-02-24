@@ -1,1 +1,3 @@
-# SCM_FILE_01 
+git add .
+git commit -m "Initial commit"
+git push -u origin main 
